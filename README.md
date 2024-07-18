@@ -80,21 +80,21 @@ A notes app built using React native for cross-platform mobile devices.
 ## Contributing
 
 - Feature Requests:  
-  Want a new feature or improve already existing feature in the app? Feel free to create an issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) about the feature you want to see in the app.
+  Want a new feature or improve already existing feature in the app? Feel free to create an issue at [issue tracker](https://github.com/alok-jha0/Nots.git) about the feature you want to see in the app.
 - Bug reports:  
-  Found a bug in the application? Feel free to create a new issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) stating the clear description of the bug.
+  Found a bug in the application? Feel free to create a new issue at [issue tracker](https://github.com/alok-jha0/Nots.git) stating the clear description of the bug.
 
 - Code contributions:  
   Want to contribute code to the project? You can do so by either correcting bugs or adding new features which can be found in the issues tab and then submitting a Pull Request referencing that issue.
 
 - Security vulnerabilities:  
-  Discovered a security vulnerability within this project? Please send an email to Aayush (author) at aayush5521186@gmail.com.
+  Discovered a security vulnerability within this project? Please send an email to Aayush (author) at alokjha27may@gmail.com.
 
 ## Useful Links
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/react-native-notes-app
+  - Github Repo: (https://github.com/alok-jha0/Nots.git)
 
 - Official Docs
 
