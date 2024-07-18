@@ -113,5 +113,5 @@ A notes app built using React native for cross-platform mobile devices.
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: alokjha27may@gmail.com
+- Linkedin: www.linkedin.com/in/alok-jha-3bb34924a
