@@ -88,7 +88,7 @@ A notes app built using React native for cross-platform mobile devices.
   Want to contribute code to the project? You can do so by either correcting bugs or adding new features which can be found in the issues tab and then submitting a Pull Request referencing that issue.
 
 - Security vulnerabilities:  
-  Discovered a security vulnerability within this project? Please send an email to Aayush (author) at alokjha27may@gmail.com.
+  Discovered a security vulnerability within this project? Please send an email to Alok (author) at alokjha27may@gmail.com.
 
 ## Useful Links
 
